@@ -1,0 +1,389 @@
+1
+00:00:00,000 --> 00:00:05,360
+Hello, I'm Graeme Fitch and I'm coming to you from Steinway Hall in London for Pianist magazine
+
+2
+00:00:06,000 --> 00:00:12,480
+and this is the third video in the series of three videos on practicing for a performance
+
+3
+00:00:13,040 --> 00:00:19,040
+and what we need to do when we know we're going to have to perform something, decide whether we're
+
+4
+00:00:19,040 --> 00:00:25,200
+going to play from memory or not and do some preliminary research on the background to the
+
+5
+00:00:25,200 --> 00:00:30,879
+piece. This is just, I'm just recapping now what we covered already in the first two videos and
+
+6
+00:00:30,879 --> 00:00:37,439
+then after we've done a little bit of analysis of the piece and found the shape, the patterns,
+
+7
+00:00:38,080 --> 00:00:44,799
+we can embark on some serious deep learning techniques that we use to learn the notes and
+
+8
+00:00:44,799 --> 00:00:52,639
+to finesse the playing and I'm just going to show you a few of these ideas by way of recap
+
+9
+00:00:52,639 --> 00:00:59,200
+and I've chosen here Scarlatti's Sonata in C K 5 1 3, just the last section, the
+
+10
+00:00:59,200 --> 00:01:05,680
+the presto section, which probably would go at something like this tempo
+
+11
+00:01:06,239 --> 00:01:14,239
+so
+
+12
+00:01:19,519 --> 00:01:25,199
+something along those lines, it could be a bit faster, could be a bit slower, your choice really
+
+13
+00:01:26,559 --> 00:01:32,800
+okay so what would I do first? Well maybe the first approaches that I would take would revolve
+
+14
+00:01:32,879 --> 00:01:42,239
+around the the three s's, slowly or a variety of different speeds, separately and that can be
+
+15
+00:01:42,239 --> 00:01:48,720
+something as simple as hands separately but it could also be strands separately, you know elements
+
+16
+00:01:48,720 --> 00:01:56,400
+that we find, horizontal elements and then sections and the idea of working in sections is so that we
+
+17
+00:01:56,400 --> 00:02:02,720
+don't overload our working memory, we take a little chunk of music and we stop after we've
+
+18
+00:02:03,279 --> 00:02:09,279
+done what it is we were going to do. Let me show you some of this in action so if I take, I'm going
+
+19
+00:02:09,279 --> 00:02:16,479
+to do a slightly more sophisticated type of separate practice, I call it zigzag, I notice that
+
+20
+00:02:16,479 --> 00:02:21,919
+the right hand at the beginning here and then the left hand are playing the same material so I'm
+
+21
+00:02:21,919 --> 00:02:28,000
+going to play the first four bars right hand and then the next four bars left hand
+
+22
+00:02:28,559 --> 00:02:34,080
+so
+
+23
+00:02:45,919 --> 00:02:51,600
+I could have done that better, I'm not going to do it again but I would do that until I was
+
+24
+00:02:51,600 --> 00:02:56,399
+happy with that and it might mean that I'd want to do a little bit of controlled stops
+
+25
+00:02:58,559 --> 00:03:18,080
+and then and then stopping on the first note of each bar. What about the other hand?
+
+26
+00:03:18,080 --> 00:03:32,000
+So that's separate practice done in a I think a quite a creative way, zigzagging from one hand to
+
+27
+00:03:32,000 --> 00:03:40,240
+the other. So controlled stops would be something like in this particular example perhaps two bars
+
+28
+00:03:40,240 --> 00:03:51,600
+and one note. Now evaluate that, assess that, was it correct, in other words were the notes right,
+
+29
+00:03:51,600 --> 00:03:56,960
+was the rhythm right, fingerings, dynamics, character, anything else you want to add to
+
+30
+00:03:56,960 --> 00:04:03,440
+that list but don't forget to ask yourself did it sound good and did it feel good because if it
+
+31
+00:04:03,440 --> 00:04:09,440
+didn't feel good we can't pass that so your inner quality control inspector has to be able to sign
+
+32
+00:04:09,440 --> 00:04:15,520
+that off. Yes and you may decide you want to repeat it. Why would you repeat it? Well to enjoy
+
+33
+00:04:16,079 --> 00:04:18,799
+playing it fluently and to form a habit.
+
+34
+00:04:22,320 --> 00:04:25,040
+Right now I can graduate and go to the next spot
+
+35
+00:04:28,640 --> 00:04:32,160
+and I was noticing then that just at the very end of the second bar
+
+36
+00:04:34,079 --> 00:04:39,040
+my left hand wasn't entirely comfortable. I'm going to do that again focusing on my left hand
+
+37
+00:04:40,239 --> 00:04:48,160
+and I got a much freer movement from the low G pinky G to the higher G so you can
+
+38
+00:04:48,160 --> 00:04:54,720
+see what I'm doing here is I'm finessing and refining as I go along and these are deep
+
+39
+00:04:54,720 --> 00:04:59,200
+these are some deep learning techniques that we've been looking at previously
+
+40
+00:05:01,279 --> 00:05:08,239
+but the rest of this video is going to be free of demonstration because I'm going to describe to you
+
+41
+00:05:08,239 --> 00:05:13,600
+what I would recommend doing as soon as you know that you've got a performance you would know the
+
+42
+00:05:13,600 --> 00:05:20,959
+date. If you're preparing for let's say a diploma examination you'd want to set a date. We have to
+
+43
+00:05:20,959 --> 00:05:28,320
+remember Parkinson's law. Parkinson's law says that says that work expands to fill the available time
+
+44
+00:05:28,320 --> 00:05:32,959
+so if you've given yourself six months to complete a task it's going to take six months.
+
+45
+00:05:32,959 --> 00:05:38,880
+If you give yourself six weeks provided it's realistic time frame it's going to take six
+
+46
+00:05:38,880 --> 00:05:44,000
+weeks. If you say well I'll take my diploma when my pieces are ready believe me they will never be
+
+47
+00:05:44,000 --> 00:05:50,399
+ready. You need to give yourself some sort of a deadline so let's assume that you've got
+
+48
+00:05:51,519 --> 00:05:58,399
+a performance the beginning of December for example. What you'd want to do at least six
+
+49
+00:05:58,399 --> 00:06:03,920
+weeks before that you'd want to be fully ready. I recommend six weeks so that everything is ready
+
+50
+00:06:04,959 --> 00:06:12,079
+you're comfortable you're fluent and at that point you organize three run-throughs
+
+51
+00:06:12,720 --> 00:06:20,559
+three trial run-throughs of the program for other people preferably on pianos that you don't know
+
+52
+00:06:20,559 --> 00:06:25,440
+because you're going to in your performance you're more than likely going to have to deal with a
+
+53
+00:06:25,440 --> 00:06:30,480
+piano that's unfamiliar in a setting that's unfamiliar so you have to have practiced
+
+54
+00:06:32,320 --> 00:06:39,200
+doing that you have to have practiced as much as you can three safe run-throughs even if the piano
+
+55
+00:06:39,200 --> 00:06:45,760
+is bad the run-through will be valuable to you so that's you've put that in your diary so you
+
+56
+00:06:45,760 --> 00:06:51,359
+you would put that in for middle of October and then you'd work backwards from there when is the
+
+57
+00:06:51,359 --> 00:06:57,760
+first run-through going to be for yourself in relation to your you know time frame so you'd
+
+58
+00:06:57,760 --> 00:07:03,920
+set that more or less that doesn't have to be absolute but you'd have a rough idea that three
+
+59
+00:07:03,920 --> 00:07:09,119
+or four months after you start let's say you're going to have a run-through for yourself and the
+
+60
+00:07:09,119 --> 00:07:14,559
+first run-through for yourself I'm assuming now it's a program of pieces you're probably going to
+
+61
+00:07:14,559 --> 00:07:22,000
+be quite disappointed oh that's no nowhere near how I practiced it that's fine because the first
+
+62
+00:07:22,000 --> 00:07:28,399
+run-through will be full of problems and issues and dissatisfactions and all sorts of things
+
+63
+00:07:29,839 --> 00:07:36,320
+what you would then do would be to embark on a process of practicing a performance for yourself
+
+64
+00:07:36,959 --> 00:07:44,239
+followed by reflection where you sit with the recording of the piece if you've made a recording
+
+65
+00:07:44,239 --> 00:07:51,200
+and I advise that doing that sometimes and just flagging up spots where you were happy oh yes that
+
+66
+00:07:51,200 --> 00:07:57,119
+really came out I like the way that my right hand melody projected my pedaling was nice and clean in
+
+67
+00:07:57,119 --> 00:08:04,799
+that spot don't forget to comment on the positives and flag up those corners of the piece or the
+
+68
+00:08:04,799 --> 00:08:11,040
+program that didn't quite stand up and make bullet points on a piece of paper so that you've got
+
+69
+00:08:11,040 --> 00:08:17,760
+something to work from when you do your spot practice now the spot practice deals with the
+
+70
+00:08:17,760 --> 00:08:23,519
+areas of weakness in the previous run-through so let me go through that again you practice
+
+71
+00:08:23,519 --> 00:08:28,239
+the performance and you start at the beginning and you go right to the end whether you're happy
+
+72
+00:08:28,239 --> 00:08:35,359
+or unhappy you have to stick with that then you do your reflection and then you have a separate
+
+73
+00:08:35,359 --> 00:08:42,559
+practice session where you do spots where you practice for yourself those corners the next day
+
+74
+00:08:42,559 --> 00:08:49,119
+or perhaps two days later you go through exactly that process again and I like to do that daily
+
+75
+00:08:49,119 --> 00:08:56,320
+for a week then I embark on maintenance practice that could be maybe going back to a little bit of
+
+76
+00:08:56,320 --> 00:09:02,320
+memory boosting work it could be a little bit of slow practice I could use some of the practice
+
+77
+00:09:02,320 --> 00:09:08,239
+tools that I used when I first started learning the piece because we pianists never stop working on
+
+78
+00:09:09,039 --> 00:09:15,679
+accuracy and finesse and you know we never get to the to the end of that journey just like a gardener
+
+79
+00:09:15,679 --> 00:09:22,400
+can never say my garden is finished now I just have to sit back and enjoy it with always tinkering
+
+80
+00:09:22,400 --> 00:09:28,640
+with it so then do you see where this is coming from what what what you'll have done by doing this
+
+81
+00:09:28,640 --> 00:09:33,280
+is you'll have practiced playing from the beginning of your program to the end of it
+
+82
+00:09:33,840 --> 00:09:42,479
+first for yourself and then for a group of safe audience it could be friends family your teacher
+
+83
+00:09:42,479 --> 00:09:49,119
+or you know perhaps something that you organize in a church hall something like that and that will
+
+84
+00:09:49,119 --> 00:09:55,359
+prepare you for your final performance you'll find that after the three run-throughs the first will be
+
+85
+00:09:56,159 --> 00:10:00,559
+the second maybe a little better and the third you'll be starting to feel I think I'm on top of
+
+86
+00:10:00,559 --> 00:10:08,719
+this and between that and the performance itself you've got to make sure that you keep a positive
+
+87
+00:10:08,719 --> 00:10:16,239
+mindset I quite like to use affirmations something like I'm thoroughly prepared for my performance
+
+88
+00:10:16,239 --> 00:10:25,039
+and I fully deserve to enjoy it and you either say that out aloud repeat it you could you could
+
+89
+00:10:25,520 --> 00:10:32,239
+think it but have these statements that you make and believe them I'm fully prepared for my
+
+90
+00:10:32,239 --> 00:10:38,159
+performance and I deserve to enjoy it you do remember one thing that if you're enjoying your
+
+91
+00:10:38,159 --> 00:10:44,000
+performance so will your audience and in the end when when you're playing for an audience don't
+
+92
+00:10:44,000 --> 00:10:50,080
+worry about mistakes mistakes are insignificant wrong notes are insignificant as Beethoven said
+
+93
+00:10:50,080 --> 00:10:56,159
+but to play without passion that's inexcusable so what we want to do is to throw caution to the
+
+94
+00:10:56,159 --> 00:11:02,640
+wind when we perform let go there will be a few accidents a few little slips a few wrong notes
+
+95
+00:11:02,640 --> 00:11:09,760
+it's fine but if you can focus on communicating the message of the music to the audience then you
+
+96
+00:11:09,760 --> 00:11:15,599
+will have succeeded thank you very much for watching I do hope this helps you on your journey
+
+97
+00:11:15,599 --> 00:11:18,479
+and I'll look forward to seeing you again very soon
+
+

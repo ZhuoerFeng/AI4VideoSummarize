@@ -1,0 +1,19 @@
+# AI4VideoSummarize 配置文件
+# 复制此文件为 config.yaml 并填入你的 API 信息
+
+whisper:
+  base_url: "https://api.openai.com/v1"
+  api_key: "sk-your-whisper-api-key"
+  model: "whisper-1"
+
+llm:
+  base_url: "https://api.openai.com/v1"
+  api_key: "sk-your-llm-api-key"
+  model: "gpt-4o"
+
+output:
+  base_dir: "./output"
+
+download:
+  proxy: ""           # 可选，例如 "http://127.0.0.1:7890"
+  cookies_file: ""    # 可选，浏览器 cookies 文件路径（用于需要登录的视频）
