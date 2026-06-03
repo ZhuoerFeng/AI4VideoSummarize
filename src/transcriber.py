@@ -115,6 +115,7 @@ def transcribe_with_timestamps(audio_path: Path, output_dir: Path, config: dict)
         raise ValueError("Whisper API key not configured. Please set it in config.yaml.")
 
     client = OpenAI(base_url=base_url, api_key=api_key)
+    print(f"[Transcribe] OpenAI client initialized with base URL: {base_url}")
 
     # For SRT, we don't split (may lose sync); fall back to plain if too large
     file_size = audio_path.stat().st_size

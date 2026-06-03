@@ -8,6 +8,7 @@
 - **语音转录**：基于 Whisper API，支持中英文自动识别
 - **智能摘要**：基于 LLM API，自动提取关键信息并生成结构化摘要
 - **长视频支持**：自动分片处理超大音频文件
+- **断点恢复**：支持从中断的任务目录恢复处理，自动跳过已完成步骤
 - **灵活配置**：YAML 配置文件管理 API 地址和密钥，支持环境变量覆盖
 
 ## 环境要求
@@ -80,7 +81,7 @@ export LLM_BASE_URL="https://your-llm-api.com/v1"
 python main.py /path/to/video.mp4
 
 # 处理 YouTube 视频
-python main.py "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+python main.py "https://www.youtube.com/watch?v=3cRgQ9ohxYQ"
 
 # 处理 Bilibili 视频
 python main.py "https://www.bilibili.com/video/BV1xx411c7mD"
@@ -88,6 +89,17 @@ python main.py "https://www.bilibili.com/video/BV1xx411c7mD"
 # 处理直接视频 URL
 python main.py "https://example.com/video.mp4"
 ```
+
+### 恢复处理
+
+如果之前的处理中断，可以使用 `--resume` 从已有的任务目录恢复：
+
+```bash
+# 从已有目录恢复（自动检测进度并继续）
+python main.py --resume ./output/20240101_120000_video_title
+```
+
+工具会自动检测目录中已有的文件（视频、音频、转录文本、摘要），跳过已完成的步骤，从中断处继续执行。
 
 ### 可选参数
 
@@ -109,7 +121,8 @@ python main.py --no-keep-video "https://..."
 
 | 参数 | 缩写 | 说明 |
 |------|------|------|
-| `source` | - | 视频来源（必需）：本地路径、URL、YouTube/Bilibili 链接 |
+| `source` | - | 视频来源（与 `--resume` 二选一）：本地路径、URL、YouTube/Bilibili 链接 |
+| `--resume` | `-r` | 从已有任务目录恢复处理（与 `source` 二选一） |
 | `--config` | `-c` | 配置文件路径，默认 `./config.yaml` |
 | `--output` | `-o` | 输出基础目录，默认从配置文件读取 |
 | `--no-summary` | - | 跳过摘要生成，仅执行转录 |

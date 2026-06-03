@@ -6,7 +6,7 @@ import sys
 from pathlib import Path
 
 from src.config import load_config
-from src.pipeline import run_pipeline
+from src.pipeline import run_pipeline, resume_pipeline
 
 
 def main():
@@ -20,17 +20,27 @@ Examples:
   %(prog)s "https://www.bilibili.com/video/BVxxxxx"
   %(prog)s --no-summary "https://www.youtube.com/watch?v=xxxxx"
   %(prog)s --config my_config.yaml --output ./results "https://..."
+  %(prog)s --resume ./output/20240101_120000_video_title
         """,
     )
 
     parser.add_argument(
         "source",
+        nargs="?",
+        default=None,
         help="Video source: local file path, YouTube URL, Bilibili URL, or direct video URL",
+    )
+    parser.add_argument(
+        "--resume",
+        "-r",
+        default=None,
+        metavar="DIR",
+        help="Resume processing from an existing task directory",
     )
     parser.add_argument(
         "--config",
         "-c",
-        default=None,
+        default="./config.yaml",
         help="Path to config file (default: ./config.yaml)",
     )
     parser.add_argument(
@@ -52,18 +62,33 @@ Examples:
 
     args = parser.parse_args()
 
+    # Validate: must provide either source or --resume
+    if not args.source and not args.resume:
+        parser.error("Please provide a video source or use --resume to resume from a directory.")
+    if args.source and args.resume:
+        parser.error("Cannot use both a video source and --resume at the same time.")
+
     try:
         # Load config
         config = load_config(args.config)
 
-        # Run pipeline
-        output_dir = run_pipeline(
-            source=args.source,
-            config=config,
-            output_base=args.output,
-            skip_summary=args.no_summary,
-            keep_video=not args.no_keep_video,
-        )
+        if args.resume:
+            # Resume mode
+            output_dir = resume_pipeline(
+                task_dir=args.resume,
+                config=config,
+                skip_summary=args.no_summary,
+                keep_video=not args.no_keep_video,
+            )
+        else:
+            # Normal mode
+            output_dir = run_pipeline(
+                source=args.source,
+                config=config,
+                output_base=args.output,
+                skip_summary=args.no_summary,
+                keep_video=not args.no_keep_video,
+            )
 
         print(f"\nResults saved to: {output_dir}")
 
