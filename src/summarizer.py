@@ -10,7 +10,7 @@ Your summaries should:
 1. Capture the main topics and key points
 2. Preserve important details, arguments, and conclusions
 3. Be well-organized with clear structure
-4. Be written in Chinese only, within 500 characters
+4. Be written in Chinese only, within 1500 characters
 5. Include section headings if the content covers multiple topics"""
 
 SUMMARY_PROMPT = """Please provide a comprehensive summary of the following video transcript.
